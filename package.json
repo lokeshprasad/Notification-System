@@ -1,0 +1,10 @@
+{
+  "name": "PubSubMongoDB",
+  "description" : "A Realtime Notification system with MongoDB, Nodejs and Socket.io",
+  "dependencies": {
+    "mongodb": "1.4.x",
+    "socket.io": "1.2.1"
+    },
+    "version": "0.0.1",
+    "author" : "Lokesh"
+}

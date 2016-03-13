@@ -1,0 +1,1 @@
+exports.messages = ['Hi' , 'Hello', 'How are you', 'I am fine', 'Things going good'];
